@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "54M92ZQG3A.app.bike.com",
+                "paths": [ "/wxshare/*"]
+            }
+        ]
+    }
+}
